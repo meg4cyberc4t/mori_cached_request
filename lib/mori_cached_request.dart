@@ -4,7 +4,6 @@ import 'dart:async';
 
 import 'package:mori_cached_request/mori_cached_state.dart';
 
-/// A Calculator.
 class MoriCachedRequest<T> {
   MoriCachedRequest({
     required this.loadingFromCache,
